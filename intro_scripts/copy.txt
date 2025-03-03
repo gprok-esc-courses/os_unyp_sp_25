@@ -1,0 +1,4 @@
+id,name,price
+1,Mouse,36
+2.Keyboard,78
+3.Monitor,145
